@@ -1,0 +1,5 @@
+my_birthday= "24 Dec,1999"
+arpit_birthday = "23 June,1996"
+manny_birthday = "23 Nov,1994"
+mom_birthday = "5 July,1975"
+dad_birthday = "10 Dec"
